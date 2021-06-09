@@ -28,7 +28,7 @@ function Logo() {
 
 	return (
 		<div className={clsx(classes.root, 'flex items-center')}>
-			<img src="http://assets.stickpng.com/images/5a5a8ab314d8c4188e0b08e5.png"></img>
+			<h1>Natixis</h1>
 		</div>
 	);
 }
